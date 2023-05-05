@@ -15,7 +15,7 @@
      Website
      https://www.copernic.cat/
      Industries
-     Primary and Secondary Education Vocational Education Teachings on IT
+     Primary and Secondary Education, Vocational education and training on computer science
      Company size
      51-200 employees
      Headquarters
