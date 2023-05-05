@@ -19,7 +19,6 @@
      Company size
      51-200 employees
      Headquarters
-     Terrassa, Cataluña / Catalunya
      Carrer de Torrent del Batlle 10
      Terrassa, Cataluña / Catalunya 08225, ES
      Type
