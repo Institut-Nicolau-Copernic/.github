@@ -21,14 +21,14 @@ Terrassa, Cataluña / Catalunya 08225, ES
 About us
 L'Institut Nicolau Copèrnic és un institut d'educació secundària del Departament d'Ensenyament de la Generalitat de Catalunya i està situat a Terrassa.
 S'hi imparteixen els estudis de:
-     ─ ESO
-     ─ BATXILLERAT
-     ─ CICLES FORMATIUS DE GRAU MITJÀ
-          - Sistemes microinformàtics i xarxes:
-     ─ CICLES FORMATIUS DE GRAU SUPERIOR.
-          - Administració de sistemes informàtics en la xarxa
-          - Desenvolupament d'aplicacions multiplataforma
-          - Desenvolupament d'aplicacions web
+     ESO
+     BATXILLERAT
+     CICLES FORMATIUS DE GRAU MITJÀ
+          Sistemes microinformàtics i xarxes:
+     CICLES FORMATIUS DE GRAU SUPERIOR.
+          Administració de sistemes informàtics en la xarxa
+          Desenvolupament d'aplicacions multiplataforma
+          Desenvolupament d'aplicacions web
           
      Website
      https://www.copernic.cat/
