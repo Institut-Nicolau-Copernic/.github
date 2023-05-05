@@ -11,33 +11,17 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-..Institut Nicolau Copèrnic
-Primary and Secondary Education / Vocational Education Teachings on IT
-Terrassa, Cataluña / Catalunya
-
-Carrer de Torrent del Batlle 10
-Terrassa, Cataluña / Catalunya 08225, ES
-
-About us
-L'Institut Nicolau Copèrnic és un institut d'educació secundària del Departament d'Ensenyament de la Generalitat de Catalunya i està situat a Terrassa.
-S'hi imparteixen els estudis de:
-     ESO
-     BATXILLERAT
-     CICLES FORMATIUS DE GRAU MITJÀ
-          Sistemes microinformàtics i xarxes:
-     CICLES FORMATIUS DE GRAU SUPERIOR.
-          Administració de sistemes informàtics en la xarxa
-          Desenvolupament d'aplicacions multiplataforma
-          Desenvolupament d'aplicacions web
-          
+     Institut Nicolau Copèrnic     
      Website
      https://www.copernic.cat/
      Industries
-     Primary and Secondary Education
+     Primary and Secondary Education Vocational Education Teachings on IT
      Company size
      51-200 employees
      Headquarters
      Terrassa, Cataluña / Catalunya
+     Carrer de Torrent del Batlle 10
+     Terrassa, Cataluña / Catalunya 08225, ES
      Type
      Educational
      Founded
