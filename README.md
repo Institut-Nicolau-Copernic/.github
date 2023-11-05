@@ -1,4 +1,6 @@
 # .github
+Aquesta web està publicada a pagès de github amb domini: https://pages.copernic.cat/
+
 Profile Page <br />
 
 About us <br />
