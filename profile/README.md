@@ -1,5 +1,5 @@
 ## Hi there 👋
-Aquesta web està publicada a pagès de github amb domini: https://pages.copernic.cat/
+
 <!--
 
 **Here are some ideas to get you started:**
