@@ -36,12 +36,12 @@
                CFGM Sistemes microinformàtics i xarxes (CFPM IC10) - Nivel 4A (MECU)
           Cicles Formatius de Grau Superior
                CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )  - Nivel 5A (MECU)
-               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! - Nivel 5A (MECU)
+               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1) Nou!! - Nivel 5A (MECU)
                CFGS Desenvolupament d'aplicacions web (CFPS ICC0) - Nivel 5A (MECU)
                CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0) - Nivel 5A (MECU)               
           Cursos d’especialització
                Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! - Nivel 5C (MECU) 
 
-https://www.boe.es/eli/es/rd/2022/04/12/272/con
+     https://www.boe.es/eli/es/rd/2022/04/12/272/con
 
 
