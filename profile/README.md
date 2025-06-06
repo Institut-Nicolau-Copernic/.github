@@ -26,19 +26,19 @@
      Founded
      1978
      Specialties
-          ESO          
-          Batxlillerat
+          ESO - Nivel 3A del Marco Español de Cualificaciones (MECU)          
+          Batxlillerat - Nivel 4A del Marco Español de Cualificaciones (MECU)
           Informàtica          
           Cicles Formatius d'informàtica
           Cicles formatius de grau bàsic
-               CFGB Informàtica d'oficina (CFPB IC10)
+               CFGB Informàtica d'oficina (CFPB IC10) - Nivel 3A del Marco Español de Cualificaciones (MECU)
           Cicles Formatius de Grau Mitjà
-               CFGM Sistemes microinformàtics i xarxes (CFPM IC10)
+               CFGM Sistemes microinformàtics i xarxes (CFPM IC10) - Nivel 4A del Marco Español de Cualificaciones (MECU)
           Cicles Formatius de Grau Superior
-               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )
-               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! 
-               CFGS Desenvolupament d'aplicacions web (CFPS ICC0)
-               CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0)               
+               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )  - Nivel 5A del Marco Español de Cualificaciones (MECU)
+               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! - Nivel 5A del Marco Español de Cualificaciones (MECU)
+               CFGS Desenvolupament d'aplicacions web (CFPS ICC0) - Nivel 5A del Marco Español de Cualificaciones (MECU)
+               CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0) - Nivel 5A del Marco Español de Cualificaciones (MECU)               
           Cursos d’especialització
-               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!!
+               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! - Nivel 5C del Marco Español de Cualificaciones (MECU) 
 
