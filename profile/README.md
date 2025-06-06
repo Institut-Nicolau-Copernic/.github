@@ -26,14 +26,10 @@
      Founded
      1978
      Specialties
-          ESO
-          
+          ESO          
           Batxlillerat
-
-          Informàtica
-          
+          Informàtica          
           Cicles Formatius d'informàtica
-
           Cicles formatius de grau bàsic
                CFGB Informàtica d'oficina (CFPB IC10)
           Cicles Formatius de Grau Mitjà
