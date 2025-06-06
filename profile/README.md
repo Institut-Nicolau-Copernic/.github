@@ -26,19 +26,22 @@
      Founded
      1978
      Specialties
-          ESO - Nivel 3A del Marco Español de Cualificaciones (MECU)          
-          Batxlillerat - Nivel 4A del Marco Español de Cualificaciones (MECU)
+          ESO - Nivel 3A (MECU)          
+          Batxlillerat - Nivel 4A (MECU)
           Informàtica          
           Cicles Formatius d'informàtica
           Cicles formatius de grau bàsic
-               CFGB Informàtica d'oficina (CFPB IC10) - Nivel 3A del Marco Español de Cualificaciones (MECU)
+               CFGB Informàtica d'oficina (CFPB IC10) - Nivel 3A (MECU)
           Cicles Formatius de Grau Mitjà
-               CFGM Sistemes microinformàtics i xarxes (CFPM IC10) - Nivel 4A del Marco Español de Cualificaciones (MECU)
+               CFGM Sistemes microinformàtics i xarxes (CFPM IC10) - Nivel 4A (MECU)
           Cicles Formatius de Grau Superior
-               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )  - Nivel 5A del Marco Español de Cualificaciones (MECU)
-               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! - Nivel 5A del Marco Español de Cualificaciones (MECU)
-               CFGS Desenvolupament d'aplicacions web (CFPS ICC0) - Nivel 5A del Marco Español de Cualificaciones (MECU)
-               CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0) - Nivel 5A del Marco Español de Cualificaciones (MECU)               
+               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )  - Nivel 5A (MECU)
+               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! - Nivel 5A (MECU)
+               CFGS Desenvolupament d'aplicacions web (CFPS ICC0) - Nivel 5A (MECU)
+               CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0) - Nivel 5A (MECU)               
           Cursos d’especialització
-               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! - Nivel 5C del Marco Español de Cualificaciones (MECU) 
+               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! - Nivel 5C (MECU) 
+
+https://www.boe.es/eli/es/rd/2022/04/12/272/con
+
 
