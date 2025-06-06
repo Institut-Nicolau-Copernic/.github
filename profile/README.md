@@ -26,23 +26,23 @@
      Founded
      1978
      Specialties
-          **ESO**
+          ESO
           
-          **Batxlillerat**
+          Batxlillerat
 
-          **Informàtica**
+          Informàtica
           
-          **Cicles Formatius d'informàtica**
+          Cicles Formatius d'informàtica
 
-          **Cicles formatius de grau bàsic**
+          Cicles formatius de grau bàsic
                CFGB Informàtica d'oficina (CFPB IC10)
-          **Cicles Formatius de Grau Mitjà**
+          Cicles Formatius de Grau Mitjà
                CFGM Sistemes microinformàtics i xarxes (CFPM IC10)
-          **Cicles Formatius de Grau Superior**
+          Cicles Formatius de Grau Superior
                CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0)
-               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1) ** Nou!! **
+               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! 
                CFGS Desenvolupament d'aplicacions web (CFPS ICC0)
                CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0)               
-          **Cursos d’especialització**
-               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01)
+          Cursos d’especialització
+               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!!
 
