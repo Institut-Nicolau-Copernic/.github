@@ -35,7 +35,7 @@
           Cicles Formatius de Grau Mitjà
                CFGM Sistemes microinformàtics i xarxes (CFPM IC10)
           Cicles Formatius de Grau Superior
-               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0)
+               CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )
                CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1)  Nou!! 
                CFGS Desenvolupament d'aplicacions web (CFPS ICC0)
                CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0)               
