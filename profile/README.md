@@ -45,14 +45,14 @@
           Cicles Formatius de Grau Superior - Higher level Vocational education and training VET programmes
                CFGS Administració de sistemes informàtics en xarxa (CFPS ICA0) ( En extinció )  - Nivel 5A (MECU)
                     Higher Technician in Computer Network Systems Management - Level 5 of the European Qualifications Framework (EQF5). 
-               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1) Nou!! - Nivel 5A (MECU)
+               CFGS Administració de sistemes informàtics en xarxa, perfil professional ciberseguretat (CFPS ICA1) Nou!! 2025-2026+ - Nivel 5A (MECU)
                     Higher Technician in Computer Network Systems Management - Level 5 of the European Qualifications Framework (EQF5). 
                CFGS Desenvolupament d'aplicacions web (CFPS ICC0) - Nivel 5A (MECU)
                     Higher Technician in Development of Web Applications - Level 5 of the European Qualifications Framework (EQF5)               
                CFGS Desenvolupament d'aplicacions multiplataforma (CFPS ICB0) - Nivel 5A (MECU)
                     Higher Technician in Multi-platform Applications Development - Level 5 of the European Qualifications Framework (EQF5)
           Cursos d’especialització - Advanced Vocational Training Specialization Course
-               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! - Nivel 5C (MECU)
+               Ciberseguretat en Entorns de Tecnologies de la Informació (EFPS IC01) Nou!! 2025-2026+ - Nivel 5C (MECU)
                     Advanced Vocational Training Specialization Course on Cybersecurity in Information Technology Environments - Level 5C of the European Qualifications Framework (EQF 5C)
                
 
